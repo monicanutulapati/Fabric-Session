@@ -1,0 +1,1001 @@
+ProductID,Category,Price,product_title,created_date,image_url
+1,Stationery,3447.38,Notebook 1,2025-10-01T12:00:00,http://image
+2,Home,4883.71,T-Shirt 2,2025-10-01T12:00:00,http://image
+3,Beauty,2327.35,Cricket Bat 3,2025-10-01T12:00:00,http://image
+4,Groceries,108.51,Cricket Bat 4,2025-10-01T12:00:00,http://image
+5,Home,2925.99,Mixer 5,2025-10-01T12:00:00,http://image
+6,Clothing,3083.25,Toy Car 6,2025-10-01T12:00:00,http://image
+7,Electronics,2765.39,Face Wash 7,2025-10-01T12:00:00,http://image
+8,Clothing,2383.16,Mixer 8,2025-10-01T12:00:00,http://image
+9,Clothing,1861.32,Chair 9,2025-10-01T12:00:00,http://image
+10,Home,1092.14,Mobile 10,2025-10-01T12:00:00,http://image
+11,Stationery,1892.93,Cricket Bat 11,2025-10-01T12:00:00,http://image
+12,Clothing,2281.11,Notebook 12,2025-10-01T12:00:00,http://image
+13,Electronics,4897.4,Chair 13,2025-10-01T12:00:00,http://image
+14,Electronics,4080.24,Shampoo 14,2025-10-01T12:00:00,http://image
+15,Clothing,4030.23,Cricket Bat 15,2025-10-01T12:00:00,http://image
+16,Home,4288.73,Jeans 16,2025-10-01T12:00:00,http://image
+17,Electronics,4010.19,Mixer 17,2025-10-01T12:00:00,http://image
+18,Electronics,2391.29,Cricket Bat 18,2025-10-01T12:00:00,http://image
+19,Electronics,2136.53,Rice 19,2025-10-01T12:00:00,http://image
+20,Stationery,3171.73,T-Shirt 20,2025-10-01T12:00:00,http://image
+21,Toys,1612.85,Jeans 21,2025-10-01T12:00:00,http://image
+22,Clothing,1292.32,Mobile 22,2025-10-01T12:00:00,http://image
+23,Groceries,2022.09,Chair 23,2025-10-01T12:00:00,http://image
+24,Electronics,347.18,Cricket Bat 24,2025-10-01T12:00:00,http://image
+25,Home,4202.91,Face Wash 25,2025-10-01T12:00:00,http://image
+26,Home,3735.74,Laptop 26,2025-10-01T12:00:00,http://image
+27,Clothing,1833.52,Face Wash 27,2025-10-01T12:00:00,http://image
+28,Stationery,1325.69,Jeans 28,2025-10-01T12:00:00,http://image
+29,Home,650.13,Rice 29,2025-10-01T12:00:00,http://image
+30,Beauty,1034.84,Shampoo 30,2025-10-01T12:00:00,http://image
+31,Toys,3263.2,Chair 31,2025-10-01T12:00:00,http://image
+32,Stationery,1458.81,T-Shirt 32,2025-10-01T12:00:00,http://image
+33,Toys,2576.7,Toy Car 33,2025-10-01T12:00:00,http://image
+34,Home,4453.68,Cricket Bat 34,2025-10-01T12:00:00,http://image
+35,Beauty,1468.29,Notebook 35,2025-10-01T12:00:00,http://image
+36,Electronics,4347.88,Shampoo 36,2025-10-01T12:00:00,http://image
+37,Stationery,4646.41,Shampoo 37,2025-10-01T12:00:00,http://image
+38,Toys,3080.94,Notebook 38,2025-10-01T12:00:00,http://image
+39,Stationery,4540.01,Notebook 39,2025-10-01T12:00:00,http://image
+40,Electronics,1750.95,Laptop 40,2025-10-01T12:00:00,http://image
+41,Clothing,3282.41,Toy Car 41,2025-10-01T12:00:00,http://image
+42,Clothing,3046.66,Cricket Bat 42,2025-10-01T12:00:00,http://image
+43,Clothing,4444.07,Notebook 43,2025-10-01T12:00:00,http://image
+44,Toys,2955.25,Toy Car 44,2025-10-01T12:00:00,http://image
+45,Home,878.22,Mobile 45,2025-10-01T12:00:00,http://image
+46,Electronics,3652.47,Rice 46,2025-10-01T12:00:00,http://image
+47,Clothing,4705.16,Shampoo 47,2025-10-01T12:00:00,http://image
+48,Toys,446.32,Cricket Bat 48,2025-10-01T12:00:00,http://image
+49,Home,559.9,T-Shirt 49,2025-10-01T12:00:00,http://image
+50,Home,2764.75,Laptop 50,2025-10-01T12:00:00,http://image
+51,Stationery,2015.21,Rice 51,2025-10-01T12:00:00,http://image
+52,Groceries,1349.14,Laptop 52,2025-10-01T12:00:00,http://image
+53,Groceries,3291.42,T-Shirt 53,2025-10-01T12:00:00,http://image
+54,Clothing,1185.31,Notebook 54,2025-10-01T12:00:00,http://image
+55,Clothing,2243.64,Cricket Bat 55,2025-10-01T12:00:00,http://image
+56,Electronics,2657.37,T-Shirt 56,2025-10-01T12:00:00,http://image
+57,Groceries,224.02,T-Shirt 57,2025-10-01T12:00:00,http://image
+58,Stationery,4580.6,Toy Car 58,2025-10-01T12:00:00,http://image
+59,Home,4876.16,Mobile 59,2025-10-01T12:00:00,http://image
+60,Clothing,2765.3,Jeans 60,2025-10-01T12:00:00,http://image
+61,Toys,2719.47,T-Shirt 61,2025-10-01T12:00:00,http://image
+62,Beauty,2309.89,Chair 62,2025-10-01T12:00:00,http://image
+63,Toys,4392.6,Cricket Bat 63,2025-10-01T12:00:00,http://image
+64,Beauty,3216.94,Notebook 64,2025-10-01T12:00:00,http://image
+65,Clothing,4549.17,Jeans 65,2025-10-01T12:00:00,http://image
+66,Beauty,1174.29,Mobile 66,2025-10-01T12:00:00,http://image
+67,Home,1573.95,Laptop 67,2025-10-01T12:00:00,http://image
+68,Clothing,820.8,Notebook 68,2025-10-01T12:00:00,http://image
+69,Groceries,2640.42,Rice 69,2025-10-01T12:00:00,http://image
+70,Clothing,1469.47,T-Shirt 70,2025-10-01T12:00:00,http://image
+71,Groceries,3454.46,Jeans 71,2025-10-01T12:00:00,http://image
+72,Stationery,2411.48,Mobile 72,2025-10-01T12:00:00,http://image
+73,Stationery,2180.65,Rice 73,2025-10-01T12:00:00,http://image
+74,Beauty,1194.52,Face Wash 74,2025-10-01T12:00:00,http://image
+75,Beauty,1899.54,Rice 75,2025-10-01T12:00:00,http://image
+76,Beauty,2213.68,Notebook 76,2025-10-01T12:00:00,http://image
+77,Electronics,3588.94,Mixer 77,2025-10-01T12:00:00,http://image
+78,Home,4150.71,Shampoo 78,2025-10-01T12:00:00,http://image
+79,Clothing,442.09,Mixer 79,2025-10-01T12:00:00,http://image
+80,Electronics,2607.22,Shampoo 80,2025-10-01T12:00:00,http://image
+81,Stationery,3484.93,Chair 81,2025-10-01T12:00:00,http://image
+82,Clothing,3259.86,Face Wash 82,2025-10-01T12:00:00,http://image
+83,Stationery,1380.67,Jeans 83,2025-10-01T12:00:00,http://image
+84,Stationery,388.9,Mixer 84,2025-10-01T12:00:00,http://image
+85,Clothing,596.26,T-Shirt 85,2025-10-01T12:00:00,http://image
+86,Beauty,2291.2,Mobile 86,2025-10-01T12:00:00,http://image
+87,Beauty,2485.38,Cricket Bat 87,2025-10-01T12:00:00,http://image
+88,Groceries,803.14,Toy Car 88,2025-10-01T12:00:00,http://image
+89,Groceries,970.39,Jeans 89,2025-10-01T12:00:00,http://image
+90,Clothing,1382.52,Laptop 90,2025-10-01T12:00:00,http://image
+91,Home,3649.18,Cricket Bat 91,2025-10-01T12:00:00,http://image
+92,Groceries,795.88,Mixer 92,2025-10-01T12:00:00,http://image
+93,Electronics,1742.47,Mobile 93,2025-10-01T12:00:00,http://image
+94,Stationery,4007.34,Face Wash 94,2025-10-01T12:00:00,http://image
+95,Home,3499.83,Toy Car 95,2025-10-01T12:00:00,http://image
+96,Clothing,447.1,Rice 96,2025-10-01T12:00:00,http://image
+97,Groceries,1369.19,T-Shirt 97,2025-10-01T12:00:00,http://image
+98,Groceries,2738.8,Notebook 98,2025-10-01T12:00:00,http://image
+99,Electronics,4483.71,T-Shirt 99,2025-10-01T12:00:00,http://image
+100,Stationery,1938.81,Face Wash 100,2025-10-01T12:00:00,http://image
+101,Groceries,4874.26,Rice 101,2025-10-01T12:00:00,http://image
+102,Electronics,1954.75,Cricket Bat 102,2025-10-01T12:00:00,http://image
+103,Electronics,3701.21,Mobile 103,2025-10-01T12:00:00,http://image
+104,Electronics,2331.13,Rice 104,2025-10-01T12:00:00,http://image
+105,Beauty,3346.74,Laptop 105,2025-10-01T12:00:00,http://image
+106,Home,1976.16,Mixer 106,2025-10-01T12:00:00,http://image
+107,Clothing,835.13,Face Wash 107,2025-10-01T12:00:00,http://image
+108,Groceries,3736.39,Cricket Bat 108,2025-10-01T12:00:00,http://image
+109,Beauty,654.6,Jeans 109,2025-10-01T12:00:00,http://image
+110,Toys,1529.12,Mobile 110,2025-10-01T12:00:00,http://image
+111,Groceries,4325.11,Toy Car 111,2025-10-01T12:00:00,http://image
+112,Groceries,1218.03,Mixer 112,2025-10-01T12:00:00,http://image
+113,Clothing,124.59,Notebook 113,2025-10-01T12:00:00,http://image
+114,Beauty,642.27,Face Wash 114,2025-10-01T12:00:00,http://image
+115,Groceries,4845.73,Mixer 115,2025-10-01T12:00:00,http://image
+116,Stationery,3469.22,Chair 116,2025-10-01T12:00:00,http://image
+117,Beauty,817.21,Cricket Bat 117,2025-10-01T12:00:00,http://image
+118,Electronics,830.61,Laptop 118,2025-10-01T12:00:00,http://image
+119,Toys,3112.29,Laptop 119,2025-10-01T12:00:00,http://image
+120,Groceries,345.89,Shampoo 120,2025-10-01T12:00:00,http://image
+121,Electronics,3521.57,Shampoo 121,2025-10-01T12:00:00,http://image
+122,Electronics,2464.82,Laptop 122,2025-10-01T12:00:00,http://image
+123,Beauty,3953.38,Toy Car 123,2025-10-01T12:00:00,http://image
+124,Stationery,4464.39,Toy Car 124,2025-10-01T12:00:00,http://image
+125,Electronics,155.7,Cricket Bat 125,2025-10-01T12:00:00,http://image
+126,Clothing,3635.78,Notebook 126,2025-10-01T12:00:00,http://image
+127,Groceries,2452.25,Face Wash 127,2025-10-01T12:00:00,http://image
+128,Beauty,1508.84,Mobile 128,2025-10-01T12:00:00,http://image
+129,Home,989.39,Cricket Bat 129,2025-10-01T12:00:00,http://image
+130,Beauty,1770.94,T-Shirt 130,2025-10-01T12:00:00,http://image
+131,Home,1412.86,Cricket Bat 131,2025-10-01T12:00:00,http://image
+132,Stationery,2794.88,Chair 132,2025-10-01T12:00:00,http://image
+133,Beauty,817.38,Laptop 133,2025-10-01T12:00:00,http://image
+134,Stationery,1353.58,Face Wash 134,2025-10-01T12:00:00,http://image
+135,Home,53.56,Toy Car 135,2025-10-01T12:00:00,http://image
+136,Beauty,1926.27,Shampoo 136,2025-10-01T12:00:00,http://image
+137,Groceries,3117.69,T-Shirt 137,2025-10-01T12:00:00,http://image
+138,Stationery,3119.98,Toy Car 138,2025-10-01T12:00:00,http://image
+139,Toys,363.54,Toy Car 139,2025-10-01T12:00:00,http://image
+140,Stationery,1968.08,Jeans 140,2025-10-01T12:00:00,http://image
+141,Toys,2512.87,Jeans 141,2025-10-01T12:00:00,http://image
+142,Electronics,3084.54,Jeans 142,2025-10-01T12:00:00,http://image
+143,Home,3222.47,Toy Car 143,2025-10-01T12:00:00,http://image
+144,Groceries,2639.84,Laptop 144,2025-10-01T12:00:00,http://image
+145,Groceries,4184.21,Laptop 145,2025-10-01T12:00:00,http://image
+146,Electronics,4373.79,T-Shirt 146,2025-10-01T12:00:00,http://image
+147,Groceries,2452.58,Mixer 147,2025-10-01T12:00:00,http://image
+148,Groceries,2876.51,Laptop 148,2025-10-01T12:00:00,http://image
+149,Toys,2475.05,Notebook 149,2025-10-01T12:00:00,http://image
+150,Toys,2971.99,Chair 150,2025-10-01T12:00:00,http://image
+151,Clothing,1142.58,Rice 151,2025-10-01T12:00:00,http://image
+152,Groceries,114.78,Cricket Bat 152,2025-10-01T12:00:00,http://image
+153,Toys,2482.46,Mixer 153,2025-10-01T12:00:00,http://image
+154,Home,4015.05,Laptop 154,2025-10-01T12:00:00,http://image
+155,Clothing,2812.2,Rice 155,2025-10-01T12:00:00,http://image
+156,Stationery,1876.89,Notebook 156,2025-10-01T12:00:00,http://image
+157,Groceries,4127.03,Cricket Bat 157,2025-10-01T12:00:00,http://image
+158,Beauty,251.23,Face Wash 158,2025-10-01T12:00:00,http://image
+159,Stationery,1554.33,Laptop 159,2025-10-01T12:00:00,http://image
+160,Beauty,530.74,Mixer 160,2025-10-01T12:00:00,http://image
+161,Electronics,2681.72,Cricket Bat 161,2025-10-01T12:00:00,http://image
+162,Electronics,2654.65,Mixer 162,2025-10-01T12:00:00,http://image
+163,Beauty,3145.36,Mixer 163,2025-10-01T12:00:00,http://image
+164,Beauty,3758.51,T-Shirt 164,2025-10-01T12:00:00,http://image
+165,Toys,572.3,Notebook 165,2025-10-01T12:00:00,http://image
+166,Beauty,1821.92,Shampoo 166,2025-10-01T12:00:00,http://image
+167,Toys,3342.95,Mobile 167,2025-10-01T12:00:00,http://image
+168,Electronics,3972.68,Laptop 168,2025-10-01T12:00:00,http://image
+169,Home,2548.23,Jeans 169,2025-10-01T12:00:00,http://image
+170,Electronics,2692.81,Shampoo 170,2025-10-01T12:00:00,http://image
+171,Home,4670.92,Chair 171,2025-10-01T12:00:00,http://image
+172,Beauty,4957.74,Toy Car 172,2025-10-01T12:00:00,http://image
+173,Stationery,1890.01,Toy Car 173,2025-10-01T12:00:00,http://image
+174,Home,4139.47,Shampoo 174,2025-10-01T12:00:00,http://image
+175,Beauty,1241.58,Toy Car 175,2025-10-01T12:00:00,http://image
+176,Electronics,1906.56,Jeans 176,2025-10-01T12:00:00,http://image
+177,Toys,1307.74,Jeans 177,2025-10-01T12:00:00,http://image
+178,Home,4801.13,Mobile 178,2025-10-01T12:00:00,http://image
+179,Toys,221.58,Rice 179,2025-10-01T12:00:00,http://image
+180,Beauty,130.7,Face Wash 180,2025-10-01T12:00:00,http://image
+181,Clothing,82.52,T-Shirt 181,2025-10-01T12:00:00,http://image
+182,Electronics,4285.82,Mixer 182,2025-10-01T12:00:00,http://image
+183,Stationery,4118.6,Rice 183,2025-10-01T12:00:00,http://image
+184,Stationery,1415.99,Cricket Bat 184,2025-10-01T12:00:00,http://image
+185,Beauty,2803.8,Jeans 185,2025-10-01T12:00:00,http://image
+186,Electronics,516.72,Chair 186,2025-10-01T12:00:00,http://image
+187,Clothing,822.73,Mobile 187,2025-10-01T12:00:00,http://image
+188,Clothing,4453.65,Face Wash 188,2025-10-01T12:00:00,http://image
+189,Electronics,1318.41,Mixer 189,2025-10-01T12:00:00,http://image
+190,Groceries,2873.91,Face Wash 190,2025-10-01T12:00:00,http://image
+191,Electronics,3684.62,Chair 191,2025-10-01T12:00:00,http://image
+192,Clothing,3974.88,Cricket Bat 192,2025-10-01T12:00:00,http://image
+193,Home,4137.24,T-Shirt 193,2025-10-01T12:00:00,http://image
+194,Toys,2902.35,Cricket Bat 194,2025-10-01T12:00:00,http://image
+195,Beauty,3229.16,Laptop 195,2025-10-01T12:00:00,http://image
+196,Toys,4051.29,Rice 196,2025-10-01T12:00:00,http://image
+197,Groceries,3911.6,Notebook 197,2025-10-01T12:00:00,http://image
+198,Clothing,4404.97,Toy Car 198,2025-10-01T12:00:00,http://image
+199,Home,4654.72,Notebook 199,2025-10-01T12:00:00,http://image
+200,Stationery,3863.43,Laptop 200,2025-10-01T12:00:00,http://image
+201,Toys,4254.92,Cricket Bat 201,2025-10-01T12:00:00,http://image
+202,Toys,3898.22,Rice 202,2025-10-01T12:00:00,http://image
+203,Groceries,1558.68,Notebook 203,2025-10-01T12:00:00,http://image
+204,Clothing,2722.65,Rice 204,2025-10-01T12:00:00,http://image
+205,Clothing,2536.89,T-Shirt 205,2025-10-01T12:00:00,http://image
+206,Electronics,300.07,Mixer 206,2025-10-01T12:00:00,http://image
+207,Home,4856.65,Cricket Bat 207,2025-10-01T12:00:00,http://image
+208,Beauty,2548.41,Chair 208,2025-10-01T12:00:00,http://image
+209,Home,1484.43,Mixer 209,2025-10-01T12:00:00,http://image
+210,Electronics,704.34,Notebook 210,2025-10-01T12:00:00,http://image
+211,Home,2878.63,Laptop 211,2025-10-01T12:00:00,http://image
+212,Beauty,2026.0,Rice 212,2025-10-01T12:00:00,http://image
+213,Home,2534.02,Laptop 213,2025-10-01T12:00:00,http://image
+214,Electronics,3822.06,Cricket Bat 214,2025-10-01T12:00:00,http://image
+215,Beauty,1030.64,Mobile 215,2025-10-01T12:00:00,http://image
+216,Toys,2878.09,Notebook 216,2025-10-01T12:00:00,http://image
+217,Beauty,4985.54,Jeans 217,2025-10-01T12:00:00,http://image
+218,Electronics,1249.46,Jeans 218,2025-10-01T12:00:00,http://image
+219,Stationery,2178.83,Face Wash 219,2025-10-01T12:00:00,http://image
+220,Beauty,493.49,Shampoo 220,2025-10-01T12:00:00,http://image
+221,Home,2146.53,Shampoo 221,2025-10-01T12:00:00,http://image
+222,Electronics,1637.65,Toy Car 222,2025-10-01T12:00:00,http://image
+223,Toys,169.82,Chair 223,2025-10-01T12:00:00,http://image
+224,Electronics,4938.88,Face Wash 224,2025-10-01T12:00:00,http://image
+225,Stationery,4951.29,Chair 225,2025-10-01T12:00:00,http://image
+226,Beauty,771.8,Mobile 226,2025-10-01T12:00:00,http://image
+227,Stationery,1205.77,Rice 227,2025-10-01T12:00:00,http://image
+228,Clothing,822.16,Shampoo 228,2025-10-01T12:00:00,http://image
+229,Stationery,474.78,Cricket Bat 229,2025-10-01T12:00:00,http://image
+230,Groceries,1253.09,Cricket Bat 230,2025-10-01T12:00:00,http://image
+231,Electronics,4350.32,Chair 231,2025-10-01T12:00:00,http://image
+232,Groceries,1749.19,Face Wash 232,2025-10-01T12:00:00,http://image
+233,Clothing,2277.8,Laptop 233,2025-10-01T12:00:00,http://image
+234,Clothing,1084.6,Rice 234,2025-10-01T12:00:00,http://image
+235,Electronics,1058.82,Jeans 235,2025-10-01T12:00:00,http://image
+236,Stationery,1330.36,Jeans 236,2025-10-01T12:00:00,http://image
+237,Beauty,3663.12,Mobile 237,2025-10-01T12:00:00,http://image
+238,Toys,3508.84,T-Shirt 238,2025-10-01T12:00:00,http://image
+239,Home,2935.87,Rice 239,2025-10-01T12:00:00,http://image
+240,Beauty,265.24,Shampoo 240,2025-10-01T12:00:00,http://image
+241,Groceries,1455.87,T-Shirt 241,2025-10-01T12:00:00,http://image
+242,Beauty,1392.84,Cricket Bat 242,2025-10-01T12:00:00,http://image
+243,Toys,4728.62,Mobile 243,2025-10-01T12:00:00,http://image
+244,Home,3318.85,Laptop 244,2025-10-01T12:00:00,http://image
+245,Stationery,4568.7,Shampoo 245,2025-10-01T12:00:00,http://image
+246,Stationery,584.06,Toy Car 246,2025-10-01T12:00:00,http://image
+247,Stationery,4422.84,Face Wash 247,2025-10-01T12:00:00,http://image
+248,Electronics,4899.97,Notebook 248,2025-10-01T12:00:00,http://image
+249,Toys,543.04,Jeans 249,2025-10-01T12:00:00,http://image
+250,Home,4340.53,Toy Car 250,2025-10-01T12:00:00,http://image
+251,Groceries,972.77,Jeans 251,2025-10-01T12:00:00,http://image
+252,Home,2825.4,Jeans 252,2025-10-01T12:00:00,http://image
+253,Groceries,246.77,Cricket Bat 253,2025-10-01T12:00:00,http://image
+254,Clothing,1701.17,Jeans 254,2025-10-01T12:00:00,http://image
+255,Toys,827.18,Notebook 255,2025-10-01T12:00:00,http://image
+256,Toys,1791.97,Toy Car 256,2025-10-01T12:00:00,http://image
+257,Clothing,1219.21,Shampoo 257,2025-10-01T12:00:00,http://image
+258,Clothing,4068.87,Jeans 258,2025-10-01T12:00:00,http://image
+259,Clothing,4399.45,Shampoo 259,2025-10-01T12:00:00,http://image
+260,Beauty,4748.13,Rice 260,2025-10-01T12:00:00,http://image
+261,Electronics,1741.84,Mixer 261,2025-10-01T12:00:00,http://image
+262,Toys,729.44,Notebook 262,2025-10-01T12:00:00,http://image
+263,Home,2627.55,Cricket Bat 263,2025-10-01T12:00:00,http://image
+264,Beauty,4369.87,Shampoo 264,2025-10-01T12:00:00,http://image
+265,Electronics,2115.8,Shampoo 265,2025-10-01T12:00:00,http://image
+266,Electronics,2161.0,Chair 266,2025-10-01T12:00:00,http://image
+267,Beauty,1679.96,Face Wash 267,2025-10-01T12:00:00,http://image
+268,Electronics,1073.45,Jeans 268,2025-10-01T12:00:00,http://image
+269,Beauty,2729.7,T-Shirt 269,2025-10-01T12:00:00,http://image
+270,Stationery,733.64,Mixer 270,2025-10-01T12:00:00,http://image
+271,Toys,4498.28,Cricket Bat 271,2025-10-01T12:00:00,http://image
+272,Home,4978.64,T-Shirt 272,2025-10-01T12:00:00,http://image
+273,Toys,4668.5,T-Shirt 273,2025-10-01T12:00:00,http://image
+274,Clothing,385.68,T-Shirt 274,2025-10-01T12:00:00,http://image
+275,Toys,636.02,Jeans 275,2025-10-01T12:00:00,http://image
+276,Stationery,4404.21,Toy Car 276,2025-10-01T12:00:00,http://image
+277,Groceries,3838.9,Cricket Bat 277,2025-10-01T12:00:00,http://image
+278,Home,1551.57,Notebook 278,2025-10-01T12:00:00,http://image
+279,Stationery,4475.94,Cricket Bat 279,2025-10-01T12:00:00,http://image
+280,Clothing,802.19,Cricket Bat 280,2025-10-01T12:00:00,http://image
+281,Groceries,701.15,Mixer 281,2025-10-01T12:00:00,http://image
+282,Stationery,4930.48,Rice 282,2025-10-01T12:00:00,http://image
+283,Clothing,3047.74,Chair 283,2025-10-01T12:00:00,http://image
+284,Electronics,3001.99,Chair 284,2025-10-01T12:00:00,http://image
+285,Toys,179.12,Mixer 285,2025-10-01T12:00:00,http://image
+286,Toys,3910.14,Laptop 286,2025-10-01T12:00:00,http://image
+287,Beauty,4238.38,T-Shirt 287,2025-10-01T12:00:00,http://image
+288,Toys,3265.36,Mobile 288,2025-10-01T12:00:00,http://image
+289,Stationery,1967.93,T-Shirt 289,2025-10-01T12:00:00,http://image
+290,Electronics,860.74,Mobile 290,2025-10-01T12:00:00,http://image
+291,Groceries,2072.52,Mixer 291,2025-10-01T12:00:00,http://image
+292,Clothing,4753.48,Rice 292,2025-10-01T12:00:00,http://image
+293,Toys,3373.13,Mixer 293,2025-10-01T12:00:00,http://image
+294,Stationery,1062.58,Mixer 294,2025-10-01T12:00:00,http://image
+295,Home,4342.29,T-Shirt 295,2025-10-01T12:00:00,http://image
+296,Toys,1658.23,Mobile 296,2025-10-01T12:00:00,http://image
+297,Electronics,2166.4,Mobile 297,2025-10-01T12:00:00,http://image
+298,Beauty,3689.89,Rice 298,2025-10-01T12:00:00,http://image
+299,Toys,1598.84,Notebook 299,2025-10-01T12:00:00,http://image
+300,Toys,2881.08,Chair 300,2025-10-01T12:00:00,http://image
+301,Beauty,3224.9,Jeans 301,2025-10-01T12:00:00,http://image
+302,Stationery,240.63,Cricket Bat 302,2025-10-01T12:00:00,http://image
+303,Home,2311.66,Laptop 303,2025-10-01T12:00:00,http://image
+304,Electronics,2617.58,Rice 304,2025-10-01T12:00:00,http://image
+305,Toys,244.3,Notebook 305,2025-10-01T12:00:00,http://image
+306,Beauty,3837.54,Notebook 306,2025-10-01T12:00:00,http://image
+307,Electronics,1491.34,Rice 307,2025-10-01T12:00:00,http://image
+308,Clothing,3879.7,Notebook 308,2025-10-01T12:00:00,http://image
+309,Home,874.11,Face Wash 309,2025-10-01T12:00:00,http://image
+310,Beauty,4599.21,Face Wash 310,2025-10-01T12:00:00,http://image
+311,Beauty,4523.19,Cricket Bat 311,2025-10-01T12:00:00,http://image
+312,Stationery,3248.2,Mobile 312,2025-10-01T12:00:00,http://image
+313,Toys,2528.26,Laptop 313,2025-10-01T12:00:00,http://image
+314,Stationery,2947.97,T-Shirt 314,2025-10-01T12:00:00,http://image
+315,Beauty,719.77,Cricket Bat 315,2025-10-01T12:00:00,http://image
+316,Clothing,2281.88,Notebook 316,2025-10-01T12:00:00,http://image
+317,Home,2972.06,T-Shirt 317,2025-10-01T12:00:00,http://image
+318,Electronics,4418.61,Cricket Bat 318,2025-10-01T12:00:00,http://image
+319,Clothing,1654.17,Laptop 319,2025-10-01T12:00:00,http://image
+320,Toys,3992.61,Shampoo 320,2025-10-01T12:00:00,http://image
+321,Toys,661.54,Cricket Bat 321,2025-10-01T12:00:00,http://image
+322,Toys,2274.52,Laptop 322,2025-10-01T12:00:00,http://image
+323,Groceries,2642.9,Toy Car 323,2025-10-01T12:00:00,http://image
+324,Toys,3965.78,Notebook 324,2025-10-01T12:00:00,http://image
+325,Beauty,4751.28,Jeans 325,2025-10-01T12:00:00,http://image
+326,Beauty,1934.0,Notebook 326,2025-10-01T12:00:00,http://image
+327,Clothing,2849.18,T-Shirt 327,2025-10-01T12:00:00,http://image
+328,Stationery,792.94,Shampoo 328,2025-10-01T12:00:00,http://image
+329,Electronics,3857.33,T-Shirt 329,2025-10-01T12:00:00,http://image
+330,Home,1574.91,Rice 330,2025-10-01T12:00:00,http://image
+331,Stationery,4806.78,Cricket Bat 331,2025-10-01T12:00:00,http://image
+332,Toys,944.45,Face Wash 332,2025-10-01T12:00:00,http://image
+333,Electronics,67.49,T-Shirt 333,2025-10-01T12:00:00,http://image
+334,Groceries,2320.28,Face Wash 334,2025-10-01T12:00:00,http://image
+335,Beauty,4046.9,Mobile 335,2025-10-01T12:00:00,http://image
+336,Home,1227.5,Chair 336,2025-10-01T12:00:00,http://image
+337,Toys,2404.77,Chair 337,2025-10-01T12:00:00,http://image
+338,Home,443.05,Notebook 338,2025-10-01T12:00:00,http://image
+339,Groceries,1261.33,Chair 339,2025-10-01T12:00:00,http://image
+340,Clothing,3117.84,Jeans 340,2025-10-01T12:00:00,http://image
+341,Stationery,4135.0,Jeans 341,2025-10-01T12:00:00,http://image
+342,Electronics,783.87,Rice 342,2025-10-01T12:00:00,http://image
+343,Clothing,231.77,Shampoo 343,2025-10-01T12:00:00,http://image
+344,Toys,2911.56,Rice 344,2025-10-01T12:00:00,http://image
+345,Clothing,1689.0,Chair 345,2025-10-01T12:00:00,http://image
+346,Groceries,588.99,Laptop 346,2025-10-01T12:00:00,http://image
+347,Electronics,3376.85,T-Shirt 347,2025-10-01T12:00:00,http://image
+348,Toys,3472.99,Chair 348,2025-10-01T12:00:00,http://image
+349,Beauty,3947.17,Chair 349,2025-10-01T12:00:00,http://image
+350,Home,3759.21,T-Shirt 350,2025-10-01T12:00:00,http://image
+351,Groceries,510.98,Toy Car 351,2025-10-01T12:00:00,http://image
+352,Clothing,1874.42,Face Wash 352,2025-10-01T12:00:00,http://image
+353,Stationery,384.95,Notebook 353,2025-10-01T12:00:00,http://image
+354,Stationery,2774.83,Notebook 354,2025-10-01T12:00:00,http://image
+355,Home,716.0,Face Wash 355,2025-10-01T12:00:00,http://image
+356,Stationery,1408.37,Cricket Bat 356,2025-10-01T12:00:00,http://image
+357,Home,2647.0,Jeans 357,2025-10-01T12:00:00,http://image
+358,Electronics,3079.67,Cricket Bat 358,2025-10-01T12:00:00,http://image
+359,Beauty,3662.16,Laptop 359,2025-10-01T12:00:00,http://image
+360,Beauty,4936.59,Shampoo 360,2025-10-01T12:00:00,http://image
+361,Toys,3458.84,Mobile 361,2025-10-01T12:00:00,http://image
+362,Clothing,2163.92,Cricket Bat 362,2025-10-01T12:00:00,http://image
+363,Clothing,2650.69,Toy Car 363,2025-10-01T12:00:00,http://image
+364,Clothing,4639.17,Chair 364,2025-10-01T12:00:00,http://image
+365,Beauty,2507.16,Chair 365,2025-10-01T12:00:00,http://image
+366,Toys,2513.82,Cricket Bat 366,2025-10-01T12:00:00,http://image
+367,Beauty,1201.97,T-Shirt 367,2025-10-01T12:00:00,http://image
+368,Electronics,57.83,Face Wash 368,2025-10-01T12:00:00,http://image
+369,Home,3146.03,Rice 369,2025-10-01T12:00:00,http://image
+370,Toys,4247.95,Laptop 370,2025-10-01T12:00:00,http://image
+371,Home,2099.5,Chair 371,2025-10-01T12:00:00,http://image
+372,Clothing,2824.06,Toy Car 372,2025-10-01T12:00:00,http://image
+373,Electronics,105.92,Shampoo 373,2025-10-01T12:00:00,http://image
+374,Toys,1444.05,Mixer 374,2025-10-01T12:00:00,http://image
+375,Clothing,1536.41,Laptop 375,2025-10-01T12:00:00,http://image
+376,Clothing,3846.81,Jeans 376,2025-10-01T12:00:00,http://image
+377,Toys,1699.75,Laptop 377,2025-10-01T12:00:00,http://image
+378,Toys,2866.16,Notebook 378,2025-10-01T12:00:00,http://image
+379,Stationery,919.36,Rice 379,2025-10-01T12:00:00,http://image
+380,Stationery,1722.79,Toy Car 380,2025-10-01T12:00:00,http://image
+381,Home,4585.01,Shampoo 381,2025-10-01T12:00:00,http://image
+382,Toys,721.98,Rice 382,2025-10-01T12:00:00,http://image
+383,Toys,2330.06,T-Shirt 383,2025-10-01T12:00:00,http://image
+384,Clothing,2339.23,Jeans 384,2025-10-01T12:00:00,http://image
+385,Toys,327.31,Notebook 385,2025-10-01T12:00:00,http://image
+386,Clothing,2846.47,Jeans 386,2025-10-01T12:00:00,http://image
+387,Clothing,2798.13,Shampoo 387,2025-10-01T12:00:00,http://image
+388,Electronics,2908.12,Rice 388,2025-10-01T12:00:00,http://image
+389,Stationery,4585.12,Toy Car 389,2025-10-01T12:00:00,http://image
+390,Groceries,4849.59,Toy Car 390,2025-10-01T12:00:00,http://image
+391,Stationery,204.31,Face Wash 391,2025-10-01T12:00:00,http://image
+392,Toys,2694.65,Notebook 392,2025-10-01T12:00:00,http://image
+393,Beauty,3048.16,T-Shirt 393,2025-10-01T12:00:00,http://image
+394,Beauty,628.38,T-Shirt 394,2025-10-01T12:00:00,http://image
+395,Toys,4296.21,Face Wash 395,2025-10-01T12:00:00,http://image
+396,Groceries,1393.91,Cricket Bat 396,2025-10-01T12:00:00,http://image
+397,Home,4391.39,Laptop 397,2025-10-01T12:00:00,http://image
+398,Home,4155.81,Toy Car 398,2025-10-01T12:00:00,http://image
+399,Electronics,2649.25,Face Wash 399,2025-10-01T12:00:00,http://image
+400,Groceries,1902.37,T-Shirt 400,2025-10-01T12:00:00,http://image
+401,Stationery,1050.39,Rice 401,2025-10-01T12:00:00,http://image
+402,Home,2554.67,Laptop 402,2025-10-01T12:00:00,http://image
+403,Beauty,812.68,Mobile 403,2025-10-01T12:00:00,http://image
+404,Home,3675.58,Toy Car 404,2025-10-01T12:00:00,http://image
+405,Clothing,3888.89,Jeans 405,2025-10-01T12:00:00,http://image
+406,Stationery,4365.4,T-Shirt 406,2025-10-01T12:00:00,http://image
+407,Toys,4963.97,Jeans 407,2025-10-01T12:00:00,http://image
+408,Toys,230.94,Mixer 408,2025-10-01T12:00:00,http://image
+409,Toys,4330.81,Notebook 409,2025-10-01T12:00:00,http://image
+410,Groceries,1589.36,Laptop 410,2025-10-01T12:00:00,http://image
+411,Toys,4248.21,Rice 411,2025-10-01T12:00:00,http://image
+412,Clothing,2361.04,Laptop 412,2025-10-01T12:00:00,http://image
+413,Groceries,2626.86,Rice 413,2025-10-01T12:00:00,http://image
+414,Toys,1596.78,Shampoo 414,2025-10-01T12:00:00,http://image
+415,Stationery,1595.11,Chair 415,2025-10-01T12:00:00,http://image
+416,Clothing,1042.75,Mixer 416,2025-10-01T12:00:00,http://image
+417,Clothing,2684.77,Face Wash 417,2025-10-01T12:00:00,http://image
+418,Toys,632.37,Mobile 418,2025-10-01T12:00:00,http://image
+419,Electronics,1404.5,T-Shirt 419,2025-10-01T12:00:00,http://image
+420,Beauty,2820.15,Rice 420,2025-10-01T12:00:00,http://image
+421,Electronics,2735.52,Laptop 421,2025-10-01T12:00:00,http://image
+422,Clothing,1391.71,Jeans 422,2025-10-01T12:00:00,http://image
+423,Stationery,1452.18,Cricket Bat 423,2025-10-01T12:00:00,http://image
+424,Electronics,402.65,Mixer 424,2025-10-01T12:00:00,http://image
+425,Clothing,2725.86,Chair 425,2025-10-01T12:00:00,http://image
+426,Electronics,193.51,Rice 426,2025-10-01T12:00:00,http://image
+427,Groceries,574.34,Shampoo 427,2025-10-01T12:00:00,http://image
+428,Groceries,2161.01,Rice 428,2025-10-01T12:00:00,http://image
+429,Toys,3000.8,T-Shirt 429,2025-10-01T12:00:00,http://image
+430,Toys,4189.06,Chair 430,2025-10-01T12:00:00,http://image
+431,Home,3100.76,Cricket Bat 431,2025-10-01T12:00:00,http://image
+432,Clothing,4096.34,Face Wash 432,2025-10-01T12:00:00,http://image
+433,Stationery,3370.81,Cricket Bat 433,2025-10-01T12:00:00,http://image
+434,Groceries,4869.73,Jeans 434,2025-10-01T12:00:00,http://image
+435,Beauty,702.39,Mobile 435,2025-10-01T12:00:00,http://image
+436,Home,531.45,Cricket Bat 436,2025-10-01T12:00:00,http://image
+437,Toys,3239.87,Face Wash 437,2025-10-01T12:00:00,http://image
+438,Home,1196.89,Mobile 438,2025-10-01T12:00:00,http://image
+439,Electronics,4312.43,Mixer 439,2025-10-01T12:00:00,http://image
+440,Clothing,4568.66,Chair 440,2025-10-01T12:00:00,http://image
+441,Electronics,3513.09,Notebook 441,2025-10-01T12:00:00,http://image
+442,Clothing,3954.45,Shampoo 442,2025-10-01T12:00:00,http://image
+443,Home,2463.16,Toy Car 443,2025-10-01T12:00:00,http://image
+444,Home,608.79,Laptop 444,2025-10-01T12:00:00,http://image
+445,Home,4236.54,Mobile 445,2025-10-01T12:00:00,http://image
+446,Stationery,1775.65,Face Wash 446,2025-10-01T12:00:00,http://image
+447,Electronics,2564.35,Chair 447,2025-10-01T12:00:00,http://image
+448,Stationery,3585.65,Notebook 448,2025-10-01T12:00:00,http://image
+449,Clothing,2802.94,Laptop 449,2025-10-01T12:00:00,http://image
+450,Stationery,1545.48,Laptop 450,2025-10-01T12:00:00,http://image
+451,Home,2973.15,Mobile 451,2025-10-01T12:00:00,http://image
+452,Beauty,1256.27,Mixer 452,2025-10-01T12:00:00,http://image
+453,Home,1949.89,T-Shirt 453,2025-10-01T12:00:00,http://image
+454,Electronics,4078.88,Toy Car 454,2025-10-01T12:00:00,http://image
+455,Home,3932.35,Chair 455,2025-10-01T12:00:00,http://image
+456,Beauty,3947.27,Notebook 456,2025-10-01T12:00:00,http://image
+457,Toys,1218.96,Jeans 457,2025-10-01T12:00:00,http://image
+458,Toys,435.58,Shampoo 458,2025-10-01T12:00:00,http://image
+459,Beauty,4191.9,Cricket Bat 459,2025-10-01T12:00:00,http://image
+460,Beauty,3000.57,Laptop 460,2025-10-01T12:00:00,http://image
+461,Beauty,533.39,Toy Car 461,2025-10-01T12:00:00,http://image
+462,Electronics,1574.78,Mobile 462,2025-10-01T12:00:00,http://image
+463,Groceries,3011.38,Notebook 463,2025-10-01T12:00:00,http://image
+464,Stationery,3002.21,Shampoo 464,2025-10-01T12:00:00,http://image
+465,Clothing,2496.76,Notebook 465,2025-10-01T12:00:00,http://image
+466,Groceries,498.14,Shampoo 466,2025-10-01T12:00:00,http://image
+467,Beauty,4521.12,T-Shirt 467,2025-10-01T12:00:00,http://image
+468,Stationery,50.91,Shampoo 468,2025-10-01T12:00:00,http://image
+469,Toys,788.62,T-Shirt 469,2025-10-01T12:00:00,http://image
+470,Clothing,1980.41,Jeans 470,2025-10-01T12:00:00,http://image
+471,Home,1018.55,Chair 471,2025-10-01T12:00:00,http://image
+472,Clothing,1533.69,Shampoo 472,2025-10-01T12:00:00,http://image
+473,Clothing,4596.58,Shampoo 473,2025-10-01T12:00:00,http://image
+474,Toys,4913.77,Notebook 474,2025-10-01T12:00:00,http://image
+475,Groceries,2934.5,Toy Car 475,2025-10-01T12:00:00,http://image
+476,Beauty,2050.78,Chair 476,2025-10-01T12:00:00,http://image
+477,Stationery,1506.21,T-Shirt 477,2025-10-01T12:00:00,http://image
+478,Beauty,4841.1,Toy Car 478,2025-10-01T12:00:00,http://image
+479,Toys,2822.15,Rice 479,2025-10-01T12:00:00,http://image
+480,Groceries,4313.18,Toy Car 480,2025-10-01T12:00:00,http://image
+481,Electronics,2186.99,Rice 481,2025-10-01T12:00:00,http://image
+482,Home,3144.81,Chair 482,2025-10-01T12:00:00,http://image
+483,Home,2059.86,Cricket Bat 483,2025-10-01T12:00:00,http://image
+484,Beauty,1095.52,Notebook 484,2025-10-01T12:00:00,http://image
+485,Home,738.39,T-Shirt 485,2025-10-01T12:00:00,http://image
+486,Home,4224.47,Jeans 486,2025-10-01T12:00:00,http://image
+487,Stationery,2115.32,Toy Car 487,2025-10-01T12:00:00,http://image
+488,Stationery,3366.83,Face Wash 488,2025-10-01T12:00:00,http://image
+489,Groceries,405.14,T-Shirt 489,2025-10-01T12:00:00,http://image
+490,Electronics,3620.63,Rice 490,2025-10-01T12:00:00,http://image
+491,Toys,2211.84,Mobile 491,2025-10-01T12:00:00,http://image
+492,Groceries,729.24,T-Shirt 492,2025-10-01T12:00:00,http://image
+493,Stationery,2307.34,Notebook 493,2025-10-01T12:00:00,http://image
+494,Beauty,4655.04,Cricket Bat 494,2025-10-01T12:00:00,http://image
+495,Electronics,2299.25,Chair 495,2025-10-01T12:00:00,http://image
+496,Beauty,4109.35,Notebook 496,2025-10-01T12:00:00,http://image
+497,Clothing,1167.42,Notebook 497,2025-10-01T12:00:00,http://image
+498,Beauty,86.78,Notebook 498,2025-10-01T12:00:00,http://image
+499,Stationery,3668.02,Mobile 499,2025-10-01T12:00:00,http://image
+500,Beauty,1382.79,Cricket Bat 500,2025-10-01T12:00:00,http://image
+501,Beauty,1866.5,Jeans 501,2025-10-01T12:00:00,http://image
+502,Beauty,2442.18,Rice 502,2025-10-01T12:00:00,http://image
+503,Groceries,2922.33,Toy Car 503,2025-10-01T12:00:00,http://image
+504,Groceries,753.33,Cricket Bat 504,2025-10-01T12:00:00,http://image
+505,Beauty,4918.72,Cricket Bat 505,2025-10-01T12:00:00,http://image
+506,Home,2608.9,Face Wash 506,2025-10-01T12:00:00,http://image
+507,Beauty,487.81,Jeans 507,2025-10-01T12:00:00,http://image
+508,Toys,3721.35,Mobile 508,2025-10-01T12:00:00,http://image
+509,Groceries,3436.17,Shampoo 509,2025-10-01T12:00:00,http://image
+510,Stationery,2919.16,Jeans 510,2025-10-01T12:00:00,http://image
+511,Groceries,4522.75,Chair 511,2025-10-01T12:00:00,http://image
+512,Stationery,103.38,Jeans 512,2025-10-01T12:00:00,http://image
+513,Beauty,4534.97,Mobile 513,2025-10-01T12:00:00,http://image
+514,Toys,1690.99,Chair 514,2025-10-01T12:00:00,http://image
+515,Stationery,1508.36,Toy Car 515,2025-10-01T12:00:00,http://image
+516,Groceries,3490.5,T-Shirt 516,2025-10-01T12:00:00,http://image
+517,Toys,1555.15,Chair 517,2025-10-01T12:00:00,http://image
+518,Clothing,354.02,Chair 518,2025-10-01T12:00:00,http://image
+519,Beauty,886.94,Mobile 519,2025-10-01T12:00:00,http://image
+520,Toys,4952.31,Rice 520,2025-10-01T12:00:00,http://image
+521,Beauty,185.13,Cricket Bat 521,2025-10-01T12:00:00,http://image
+522,Groceries,677.77,Mobile 522,2025-10-01T12:00:00,http://image
+523,Stationery,3929.63,Laptop 523,2025-10-01T12:00:00,http://image
+524,Electronics,3098.2,Face Wash 524,2025-10-01T12:00:00,http://image
+525,Stationery,1321.93,Face Wash 525,2025-10-01T12:00:00,http://image
+526,Groceries,3038.92,Cricket Bat 526,2025-10-01T12:00:00,http://image
+527,Toys,798.12,Chair 527,2025-10-01T12:00:00,http://image
+528,Clothing,4048.81,Mobile 528,2025-10-01T12:00:00,http://image
+529,Stationery,3518.84,Face Wash 529,2025-10-01T12:00:00,http://image
+530,Electronics,4006.89,Mobile 530,2025-10-01T12:00:00,http://image
+531,Clothing,4921.15,Rice 531,2025-10-01T12:00:00,http://image
+532,Beauty,4673.01,T-Shirt 532,2025-10-01T12:00:00,http://image
+533,Stationery,2504.94,T-Shirt 533,2025-10-01T12:00:00,http://image
+534,Stationery,1946.68,Notebook 534,2025-10-01T12:00:00,http://image
+535,Home,3643.7,Shampoo 535,2025-10-01T12:00:00,http://image
+536,Electronics,2909.9,T-Shirt 536,2025-10-01T12:00:00,http://image
+537,Groceries,3229.19,Toy Car 537,2025-10-01T12:00:00,http://image
+538,Groceries,879.62,Laptop 538,2025-10-01T12:00:00,http://image
+539,Home,1541.77,Notebook 539,2025-10-01T12:00:00,http://image
+540,Stationery,4616.17,Cricket Bat 540,2025-10-01T12:00:00,http://image
+541,Home,3433.37,Mixer 541,2025-10-01T12:00:00,http://image
+542,Home,1349.99,Notebook 542,2025-10-01T12:00:00,http://image
+543,Stationery,2201.93,Jeans 543,2025-10-01T12:00:00,http://image
+544,Stationery,2271.66,Face Wash 544,2025-10-01T12:00:00,http://image
+545,Clothing,4810.73,Shampoo 545,2025-10-01T12:00:00,http://image
+546,Groceries,531.95,Shampoo 546,2025-10-01T12:00:00,http://image
+547,Toys,1801.45,Jeans 547,2025-10-01T12:00:00,http://image
+548,Beauty,4594.31,Notebook 548,2025-10-01T12:00:00,http://image
+549,Clothing,1388.11,Face Wash 549,2025-10-01T12:00:00,http://image
+550,Clothing,3289.0,Laptop 550,2025-10-01T12:00:00,http://image
+551,Home,3877.1,Notebook 551,2025-10-01T12:00:00,http://image
+552,Electronics,3684.85,Cricket Bat 552,2025-10-01T12:00:00,http://image
+553,Stationery,1014.88,Chair 553,2025-10-01T12:00:00,http://image
+554,Toys,3466.88,Toy Car 554,2025-10-01T12:00:00,http://image
+555,Clothing,2760.68,T-Shirt 555,2025-10-01T12:00:00,http://image
+556,Groceries,4166.86,Shampoo 556,2025-10-01T12:00:00,http://image
+557,Home,533.61,Rice 557,2025-10-01T12:00:00,http://image
+558,Toys,2257.41,Laptop 558,2025-10-01T12:00:00,http://image
+559,Toys,1452.32,Mixer 559,2025-10-01T12:00:00,http://image
+560,Groceries,167.32,Mixer 560,2025-10-01T12:00:00,http://image
+561,Groceries,4695.6,Laptop 561,2025-10-01T12:00:00,http://image
+562,Stationery,1123.28,Shampoo 562,2025-10-01T12:00:00,http://image
+563,Toys,652.86,Chair 563,2025-10-01T12:00:00,http://image
+564,Groceries,4289.38,Laptop 564,2025-10-01T12:00:00,http://image
+565,Home,3299.15,T-Shirt 565,2025-10-01T12:00:00,http://image
+566,Beauty,4025.84,Shampoo 566,2025-10-01T12:00:00,http://image
+567,Groceries,3493.49,T-Shirt 567,2025-10-01T12:00:00,http://image
+568,Clothing,2361.43,Face Wash 568,2025-10-01T12:00:00,http://image
+569,Toys,2294.55,Laptop 569,2025-10-01T12:00:00,http://image
+570,Stationery,2163.57,Face Wash 570,2025-10-01T12:00:00,http://image
+571,Stationery,3862.09,Shampoo 571,2025-10-01T12:00:00,http://image
+572,Electronics,3914.62,Face Wash 572,2025-10-01T12:00:00,http://image
+573,Stationery,358.82,Face Wash 573,2025-10-01T12:00:00,http://image
+574,Clothing,4979.99,Notebook 574,2025-10-01T12:00:00,http://image
+575,Stationery,1360.09,Face Wash 575,2025-10-01T12:00:00,http://image
+576,Groceries,2484.02,Mobile 576,2025-10-01T12:00:00,http://image
+577,Beauty,1993.54,Mixer 577,2025-10-01T12:00:00,http://image
+578,Home,586.73,Shampoo 578,2025-10-01T12:00:00,http://image
+579,Stationery,2184.71,Jeans 579,2025-10-01T12:00:00,http://image
+580,Toys,575.94,Chair 580,2025-10-01T12:00:00,http://image
+581,Toys,1332.03,Mobile 581,2025-10-01T12:00:00,http://image
+582,Groceries,398.54,Rice 582,2025-10-01T12:00:00,http://image
+583,Clothing,3897.32,Cricket Bat 583,2025-10-01T12:00:00,http://image
+584,Home,786.83,Rice 584,2025-10-01T12:00:00,http://image
+585,Groceries,4667.82,Shampoo 585,2025-10-01T12:00:00,http://image
+586,Home,1368.86,Shampoo 586,2025-10-01T12:00:00,http://image
+587,Clothing,4527.86,Cricket Bat 587,2025-10-01T12:00:00,http://image
+588,Groceries,2601.15,Chair 588,2025-10-01T12:00:00,http://image
+589,Home,2208.49,Mobile 589,2025-10-01T12:00:00,http://image
+590,Stationery,4070.76,Cricket Bat 590,2025-10-01T12:00:00,http://image
+591,Beauty,1167.94,Laptop 591,2025-10-01T12:00:00,http://image
+592,Toys,4098.98,Notebook 592,2025-10-01T12:00:00,http://image
+593,Groceries,2857.86,Mobile 593,2025-10-01T12:00:00,http://image
+594,Clothing,3425.09,Toy Car 594,2025-10-01T12:00:00,http://image
+595,Groceries,3179.75,Notebook 595,2025-10-01T12:00:00,http://image
+596,Groceries,1858.51,Shampoo 596,2025-10-01T12:00:00,http://image
+597,Groceries,4213.85,Toy Car 597,2025-10-01T12:00:00,http://image
+598,Toys,1055.45,Face Wash 598,2025-10-01T12:00:00,http://image
+599,Groceries,4839.19,Jeans 599,2025-10-01T12:00:00,http://image
+600,Electronics,1529.41,Shampoo 600,2025-10-01T12:00:00,http://image
+601,Groceries,3171.55,Notebook 601,2025-10-01T12:00:00,http://image
+602,Home,470.07,Toy Car 602,2025-10-01T12:00:00,http://image
+603,Home,3689.85,Shampoo 603,2025-10-01T12:00:00,http://image
+604,Groceries,1005.81,T-Shirt 604,2025-10-01T12:00:00,http://image
+605,Beauty,1230.5,Cricket Bat 605,2025-10-01T12:00:00,http://image
+606,Groceries,3974.06,Notebook 606,2025-10-01T12:00:00,http://image
+607,Clothing,2523.44,Shampoo 607,2025-10-01T12:00:00,http://image
+608,Groceries,233.36,Mobile 608,2025-10-01T12:00:00,http://image
+609,Clothing,3949.5,Rice 609,2025-10-01T12:00:00,http://image
+610,Home,635.03,Rice 610,2025-10-01T12:00:00,http://image
+611,Toys,2639.44,Shampoo 611,2025-10-01T12:00:00,http://image
+612,Stationery,4377.56,Shampoo 612,2025-10-01T12:00:00,http://image
+613,Toys,2917.76,T-Shirt 613,2025-10-01T12:00:00,http://image
+614,Groceries,3690.53,Laptop 614,2025-10-01T12:00:00,http://image
+615,Toys,144.36,Mobile 615,2025-10-01T12:00:00,http://image
+616,Groceries,1251.28,Chair 616,2025-10-01T12:00:00,http://image
+617,Electronics,121.11,Shampoo 617,2025-10-01T12:00:00,http://image
+618,Groceries,4528.08,Shampoo 618,2025-10-01T12:00:00,http://image
+619,Home,3075.57,Laptop 619,2025-10-01T12:00:00,http://image
+620,Groceries,4098.11,Chair 620,2025-10-01T12:00:00,http://image
+621,Groceries,2510.86,Laptop 621,2025-10-01T12:00:00,http://image
+622,Electronics,362.4,Chair 622,2025-10-01T12:00:00,http://image
+623,Home,1719.85,Mixer 623,2025-10-01T12:00:00,http://image
+624,Toys,2039.94,Cricket Bat 624,2025-10-01T12:00:00,http://image
+625,Toys,2901.04,Laptop 625,2025-10-01T12:00:00,http://image
+626,Clothing,4190.31,T-Shirt 626,2025-10-01T12:00:00,http://image
+627,Stationery,275.65,Mixer 627,2025-10-01T12:00:00,http://image
+628,Clothing,362.95,T-Shirt 628,2025-10-01T12:00:00,http://image
+629,Electronics,3799.87,Face Wash 629,2025-10-01T12:00:00,http://image
+630,Toys,1881.14,T-Shirt 630,2025-10-01T12:00:00,http://image
+631,Home,1256.04,T-Shirt 631,2025-10-01T12:00:00,http://image
+632,Groceries,710.19,Chair 632,2025-10-01T12:00:00,http://image
+633,Beauty,1911.85,Shampoo 633,2025-10-01T12:00:00,http://image
+634,Groceries,4404.15,T-Shirt 634,2025-10-01T12:00:00,http://image
+635,Groceries,85.76,Laptop 635,2025-10-01T12:00:00,http://image
+636,Toys,3276.19,Laptop 636,2025-10-01T12:00:00,http://image
+637,Home,3482.84,Face Wash 637,2025-10-01T12:00:00,http://image
+638,Toys,678.12,Mobile 638,2025-10-01T12:00:00,http://image
+639,Toys,1391.2,T-Shirt 639,2025-10-01T12:00:00,http://image
+640,Home,1234.31,Mobile 640,2025-10-01T12:00:00,http://image
+641,Beauty,3473.78,T-Shirt 641,2025-10-01T12:00:00,http://image
+642,Electronics,3600.13,Chair 642,2025-10-01T12:00:00,http://image
+643,Groceries,3154.6,Chair 643,2025-10-01T12:00:00,http://image
+644,Clothing,2122.99,Face Wash 644,2025-10-01T12:00:00,http://image
+645,Electronics,999.92,Jeans 645,2025-10-01T12:00:00,http://image
+646,Groceries,3113.66,Jeans 646,2025-10-01T12:00:00,http://image
+647,Beauty,1135.42,Jeans 647,2025-10-01T12:00:00,http://image
+648,Toys,1080.14,Shampoo 648,2025-10-01T12:00:00,http://image
+649,Electronics,607.76,Rice 649,2025-10-01T12:00:00,http://image
+650,Toys,4226.72,T-Shirt 650,2025-10-01T12:00:00,http://image
+651,Home,922.8,Mobile 651,2025-10-01T12:00:00,http://image
+652,Groceries,317.44,Shampoo 652,2025-10-01T12:00:00,http://image
+653,Clothing,1087.47,Toy Car 653,2025-10-01T12:00:00,http://image
+654,Clothing,3103.26,Face Wash 654,2025-10-01T12:00:00,http://image
+655,Groceries,566.88,Mobile 655,2025-10-01T12:00:00,http://image
+656,Beauty,920.64,Rice 656,2025-10-01T12:00:00,http://image
+657,Home,2598.77,Rice 657,2025-10-01T12:00:00,http://image
+658,Electronics,3620.95,Laptop 658,2025-10-01T12:00:00,http://image
+659,Beauty,1663.56,Chair 659,2025-10-01T12:00:00,http://image
+660,Toys,3400.42,Mixer 660,2025-10-01T12:00:00,http://image
+661,Electronics,3905.93,Toy Car 661,2025-10-01T12:00:00,http://image
+662,Electronics,535.42,Toy Car 662,2025-10-01T12:00:00,http://image
+663,Home,4355.94,Cricket Bat 663,2025-10-01T12:00:00,http://image
+664,Electronics,413.97,Notebook 664,2025-10-01T12:00:00,http://image
+665,Home,318.98,Chair 665,2025-10-01T12:00:00,http://image
+666,Electronics,1120.02,Notebook 666,2025-10-01T12:00:00,http://image
+667,Home,931.4,Chair 667,2025-10-01T12:00:00,http://image
+668,Electronics,2315.81,Toy Car 668,2025-10-01T12:00:00,http://image
+669,Toys,1825.02,Mixer 669,2025-10-01T12:00:00,http://image
+670,Electronics,1712.66,Face Wash 670,2025-10-01T12:00:00,http://image
+671,Toys,2864.9,Rice 671,2025-10-01T12:00:00,http://image
+672,Electronics,599.99,Face Wash 672,2025-10-01T12:00:00,http://image
+673,Home,2120.21,Mobile 673,2025-10-01T12:00:00,http://image
+674,Electronics,4437.72,Toy Car 674,2025-10-01T12:00:00,http://image
+675,Electronics,3958.26,Chair 675,2025-10-01T12:00:00,http://image
+676,Beauty,4532.61,Shampoo 676,2025-10-01T12:00:00,http://image
+677,Beauty,4282.27,Chair 677,2025-10-01T12:00:00,http://image
+678,Home,4292.02,Laptop 678,2025-10-01T12:00:00,http://image
+679,Stationery,4978.54,Mobile 679,2025-10-01T12:00:00,http://image
+680,Home,4193.1,Chair 680,2025-10-01T12:00:00,http://image
+681,Groceries,3663.59,Face Wash 681,2025-10-01T12:00:00,http://image
+682,Stationery,1270.94,Cricket Bat 682,2025-10-01T12:00:00,http://image
+683,Home,2918.36,Toy Car 683,2025-10-01T12:00:00,http://image
+684,Electronics,4573.09,Chair 684,2025-10-01T12:00:00,http://image
+685,Home,4901.91,Rice 685,2025-10-01T12:00:00,http://image
+686,Home,3680.71,Rice 686,2025-10-01T12:00:00,http://image
+687,Groceries,2157.2,Jeans 687,2025-10-01T12:00:00,http://image
+688,Home,4058.1,Notebook 688,2025-10-01T12:00:00,http://image
+689,Stationery,535.1,Cricket Bat 689,2025-10-01T12:00:00,http://image
+690,Electronics,461.3,Mobile 690,2025-10-01T12:00:00,http://image
+691,Toys,3672.34,Rice 691,2025-10-01T12:00:00,http://image
+692,Electronics,1824.11,Mixer 692,2025-10-01T12:00:00,http://image
+693,Toys,4994.81,Mixer 693,2025-10-01T12:00:00,http://image
+694,Home,3361.73,Rice 694,2025-10-01T12:00:00,http://image
+695,Toys,2323.45,T-Shirt 695,2025-10-01T12:00:00,http://image
+696,Toys,2939.12,Chair 696,2025-10-01T12:00:00,http://image
+697,Home,3870.58,Mobile 697,2025-10-01T12:00:00,http://image
+698,Home,965.48,Cricket Bat 698,2025-10-01T12:00:00,http://image
+699,Toys,2348.26,Toy Car 699,2025-10-01T12:00:00,http://image
+700,Groceries,4308.89,Shampoo 700,2025-10-01T12:00:00,http://image
+701,Home,4472.5,Laptop 701,2025-10-01T12:00:00,http://image
+702,Beauty,211.94,Toy Car 702,2025-10-01T12:00:00,http://image
+703,Stationery,1385.46,Notebook 703,2025-10-01T12:00:00,http://image
+704,Beauty,2897.39,Chair 704,2025-10-01T12:00:00,http://image
+705,Stationery,3439.09,Mixer 705,2025-10-01T12:00:00,http://image
+706,Clothing,3692.02,Chair 706,2025-10-01T12:00:00,http://image
+707,Beauty,4729.35,Rice 707,2025-10-01T12:00:00,http://image
+708,Clothing,4445.49,Shampoo 708,2025-10-01T12:00:00,http://image
+709,Home,1859.67,Laptop 709,2025-10-01T12:00:00,http://image
+710,Groceries,1859.58,Chair 710,2025-10-01T12:00:00,http://image
+711,Toys,2816.01,T-Shirt 711,2025-10-01T12:00:00,http://image
+712,Beauty,3561.22,Laptop 712,2025-10-01T12:00:00,http://image
+713,Electronics,4907.2,Mixer 713,2025-10-01T12:00:00,http://image
+714,Beauty,612.11,Mixer 714,2025-10-01T12:00:00,http://image
+715,Toys,4698.78,Mobile 715,2025-10-01T12:00:00,http://image
+716,Stationery,4797.56,Chair 716,2025-10-01T12:00:00,http://image
+717,Stationery,3737.83,Mixer 717,2025-10-01T12:00:00,http://image
+718,Clothing,1795.92,Mixer 718,2025-10-01T12:00:00,http://image
+719,Beauty,3417.12,Face Wash 719,2025-10-01T12:00:00,http://image
+720,Groceries,363.68,Face Wash 720,2025-10-01T12:00:00,http://image
+721,Home,2456.82,Toy Car 721,2025-10-01T12:00:00,http://image
+722,Stationery,657.41,Jeans 722,2025-10-01T12:00:00,http://image
+723,Beauty,3407.63,Cricket Bat 723,2025-10-01T12:00:00,http://image
+724,Clothing,2287.29,Jeans 724,2025-10-01T12:00:00,http://image
+725,Stationery,3382.87,Toy Car 725,2025-10-01T12:00:00,http://image
+726,Stationery,4891.52,Cricket Bat 726,2025-10-01T12:00:00,http://image
+727,Electronics,4464.92,Laptop 727,2025-10-01T12:00:00,http://image
+728,Groceries,446.84,Mobile 728,2025-10-01T12:00:00,http://image
+729,Clothing,4793.37,T-Shirt 729,2025-10-01T12:00:00,http://image
+730,Groceries,865.59,Laptop 730,2025-10-01T12:00:00,http://image
+731,Toys,782.37,Laptop 731,2025-10-01T12:00:00,http://image
+732,Stationery,1061.07,T-Shirt 732,2025-10-01T12:00:00,http://image
+733,Groceries,1501.19,Shampoo 733,2025-10-01T12:00:00,http://image
+734,Beauty,4662.02,Shampoo 734,2025-10-01T12:00:00,http://image
+735,Clothing,2129.64,Mobile 735,2025-10-01T12:00:00,http://image
+736,Toys,156.34,Cricket Bat 736,2025-10-01T12:00:00,http://image
+737,Groceries,159.08,Mixer 737,2025-10-01T12:00:00,http://image
+738,Stationery,4739.87,Mixer 738,2025-10-01T12:00:00,http://image
+739,Clothing,2087.87,Shampoo 739,2025-10-01T12:00:00,http://image
+740,Toys,3247.95,Toy Car 740,2025-10-01T12:00:00,http://image
+741,Home,2987.12,Toy Car 741,2025-10-01T12:00:00,http://image
+742,Beauty,4217.44,Cricket Bat 742,2025-10-01T12:00:00,http://image
+743,Home,1555.21,Mobile 743,2025-10-01T12:00:00,http://image
+744,Stationery,1567.15,T-Shirt 744,2025-10-01T12:00:00,http://image
+745,Electronics,2447.0,Face Wash 745,2025-10-01T12:00:00,http://image
+746,Stationery,4235.29,Face Wash 746,2025-10-01T12:00:00,http://image
+747,Clothing,1457.69,T-Shirt 747,2025-10-01T12:00:00,http://image
+748,Beauty,4624.45,T-Shirt 748,2025-10-01T12:00:00,http://image
+749,Beauty,1461.97,Cricket Bat 749,2025-10-01T12:00:00,http://image
+750,Stationery,3555.15,T-Shirt 750,2025-10-01T12:00:00,http://image
+751,Stationery,809.75,Shampoo 751,2025-10-01T12:00:00,http://image
+752,Groceries,253.7,Mixer 752,2025-10-01T12:00:00,http://image
+753,Beauty,676.04,Toy Car 753,2025-10-01T12:00:00,http://image
+754,Clothing,963.26,Face Wash 754,2025-10-01T12:00:00,http://image
+755,Toys,221.71,Jeans 755,2025-10-01T12:00:00,http://image
+756,Clothing,782.32,Toy Car 756,2025-10-01T12:00:00,http://image
+757,Beauty,4878.56,Mobile 757,2025-10-01T12:00:00,http://image
+758,Clothing,651.38,Jeans 758,2025-10-01T12:00:00,http://image
+759,Home,4658.79,Rice 759,2025-10-01T12:00:00,http://image
+760,Home,4642.67,T-Shirt 760,2025-10-01T12:00:00,http://image
+761,Groceries,4852.24,T-Shirt 761,2025-10-01T12:00:00,http://image
+762,Beauty,1689.84,Jeans 762,2025-10-01T12:00:00,http://image
+763,Clothing,2395.86,Cricket Bat 763,2025-10-01T12:00:00,http://image
+764,Stationery,4904.41,Face Wash 764,2025-10-01T12:00:00,http://image
+765,Toys,778.06,Chair 765,2025-10-01T12:00:00,http://image
+766,Toys,4539.06,Chair 766,2025-10-01T12:00:00,http://image
+767,Clothing,3461.28,Mobile 767,2025-10-01T12:00:00,http://image
+768,Home,4505.86,Cricket Bat 768,2025-10-01T12:00:00,http://image
+769,Toys,2777.25,T-Shirt 769,2025-10-01T12:00:00,http://image
+770,Groceries,2038.07,Face Wash 770,2025-10-01T12:00:00,http://image
+771,Home,1819.1,Mixer 771,2025-10-01T12:00:00,http://image
+772,Groceries,3060.35,Toy Car 772,2025-10-01T12:00:00,http://image
+773,Beauty,2655.85,Mixer 773,2025-10-01T12:00:00,http://image
+774,Electronics,161.62,Face Wash 774,2025-10-01T12:00:00,http://image
+775,Stationery,2255.02,Jeans 775,2025-10-01T12:00:00,http://image
+776,Groceries,4880.41,Shampoo 776,2025-10-01T12:00:00,http://image
+777,Electronics,2477.8,Notebook 777,2025-10-01T12:00:00,http://image
+778,Beauty,2582.2,Chair 778,2025-10-01T12:00:00,http://image
+779,Toys,1837.27,Rice 779,2025-10-01T12:00:00,http://image
+780,Toys,4276.33,T-Shirt 780,2025-10-01T12:00:00,http://image
+781,Home,1895.51,Toy Car 781,2025-10-01T12:00:00,http://image
+782,Clothing,1789.21,Face Wash 782,2025-10-01T12:00:00,http://image
+783,Stationery,2827.11,Mobile 783,2025-10-01T12:00:00,http://image
+784,Toys,4444.63,Mixer 784,2025-10-01T12:00:00,http://image
+785,Home,4028.24,Cricket Bat 785,2025-10-01T12:00:00,http://image
+786,Electronics,4038.08,Face Wash 786,2025-10-01T12:00:00,http://image
+787,Toys,4487.32,Notebook 787,2025-10-01T12:00:00,http://image
+788,Stationery,2956.54,T-Shirt 788,2025-10-01T12:00:00,http://image
+789,Electronics,1078.53,Laptop 789,2025-10-01T12:00:00,http://image
+790,Stationery,2650.24,Mobile 790,2025-10-01T12:00:00,http://image
+791,Groceries,4669.11,Toy Car 791,2025-10-01T12:00:00,http://image
+792,Stationery,1910.07,Chair 792,2025-10-01T12:00:00,http://image
+793,Home,3212.09,Rice 793,2025-10-01T12:00:00,http://image
+794,Home,915.72,Face Wash 794,2025-10-01T12:00:00,http://image
+795,Toys,2861.19,Mobile 795,2025-10-01T12:00:00,http://image
+796,Electronics,970.73,T-Shirt 796,2025-10-01T12:00:00,http://image
+797,Clothing,2791.64,Notebook 797,2025-10-01T12:00:00,http://image
+798,Stationery,4139.93,Rice 798,2025-10-01T12:00:00,http://image
+799,Clothing,2495.8,Chair 799,2025-10-01T12:00:00,http://image
+800,Home,1161.38,Cricket Bat 800,2025-10-01T12:00:00,http://image
+801,Electronics,1350.25,Rice 801,2025-10-01T12:00:00,http://image
+802,Stationery,3200.98,Shampoo 802,2025-10-01T12:00:00,http://image
+803,Toys,3346.27,Laptop 803,2025-10-01T12:00:00,http://image
+804,Home,937.89,Face Wash 804,2025-10-01T12:00:00,http://image
+805,Toys,1261.51,Cricket Bat 805,2025-10-01T12:00:00,http://image
+806,Stationery,1422.22,Laptop 806,2025-10-01T12:00:00,http://image
+807,Beauty,3740.55,Laptop 807,2025-10-01T12:00:00,http://image
+808,Home,2849.59,Chair 808,2025-10-01T12:00:00,http://image
+809,Toys,3445.27,Face Wash 809,2025-10-01T12:00:00,http://image
+810,Stationery,641.94,Cricket Bat 810,2025-10-01T12:00:00,http://image
+811,Toys,2897.56,Jeans 811,2025-10-01T12:00:00,http://image
+812,Electronics,2929.19,Face Wash 812,2025-10-01T12:00:00,http://image
+813,Clothing,2332.17,T-Shirt 813,2025-10-01T12:00:00,http://image
+814,Electronics,1819.06,Cricket Bat 814,2025-10-01T12:00:00,http://image
+815,Clothing,1837.76,Rice 815,2025-10-01T12:00:00,http://image
+816,Clothing,291.14,Shampoo 816,2025-10-01T12:00:00,http://image
+817,Beauty,3212.79,Face Wash 817,2025-10-01T12:00:00,http://image
+818,Beauty,1009.38,Laptop 818,2025-10-01T12:00:00,http://image
+819,Electronics,3835.21,Shampoo 819,2025-10-01T12:00:00,http://image
+820,Stationery,877.32,Chair 820,2025-10-01T12:00:00,http://image
+821,Stationery,1615.24,Toy Car 821,2025-10-01T12:00:00,http://image
+822,Stationery,1540.31,Shampoo 822,2025-10-01T12:00:00,http://image
+823,Toys,3457.32,Shampoo 823,2025-10-01T12:00:00,http://image
+824,Beauty,2921.23,Laptop 824,2025-10-01T12:00:00,http://image
+825,Groceries,727.9,T-Shirt 825,2025-10-01T12:00:00,http://image
+826,Clothing,3905.1,Face Wash 826,2025-10-01T12:00:00,http://image
+827,Clothing,4608.49,Notebook 827,2025-10-01T12:00:00,http://image
+828,Groceries,1128.49,T-Shirt 828,2025-10-01T12:00:00,http://image
+829,Electronics,4166.29,Jeans 829,2025-10-01T12:00:00,http://image
+830,Beauty,3463.78,Jeans 830,2025-10-01T12:00:00,http://image
+831,Stationery,2683.87,Jeans 831,2025-10-01T12:00:00,http://image
+832,Toys,3793.72,Jeans 832,2025-10-01T12:00:00,http://image
+833,Home,2329.43,Laptop 833,2025-10-01T12:00:00,http://image
+834,Groceries,4103.28,Laptop 834,2025-10-01T12:00:00,http://image
+835,Home,1773.64,Rice 835,2025-10-01T12:00:00,http://image
+836,Clothing,738.12,Cricket Bat 836,2025-10-01T12:00:00,http://image
+837,Beauty,2639.45,Mobile 837,2025-10-01T12:00:00,http://image
+838,Electronics,3563.98,Toy Car 838,2025-10-01T12:00:00,http://image
+839,Toys,4082.14,Rice 839,2025-10-01T12:00:00,http://image
+840,Electronics,4291.24,Mixer 840,2025-10-01T12:00:00,http://image
+841,Toys,1171.54,T-Shirt 841,2025-10-01T12:00:00,http://image
+842,Electronics,694.58,T-Shirt 842,2025-10-01T12:00:00,http://image
+843,Home,3469.55,Laptop 843,2025-10-01T12:00:00,http://image
+844,Groceries,143.09,Laptop 844,2025-10-01T12:00:00,http://image
+845,Stationery,2184.67,Mobile 845,2025-10-01T12:00:00,http://image
+846,Groceries,212.32,Mixer 846,2025-10-01T12:00:00,http://image
+847,Beauty,2986.22,Shampoo 847,2025-10-01T12:00:00,http://image
+848,Groceries,4547.22,Mobile 848,2025-10-01T12:00:00,http://image
+849,Groceries,1543.15,Rice 849,2025-10-01T12:00:00,http://image
+850,Stationery,527.69,Rice 850,2025-10-01T12:00:00,http://image
+851,Beauty,1066.74,Laptop 851,2025-10-01T12:00:00,http://image
+852,Electronics,3369.47,Mixer 852,2025-10-01T12:00:00,http://image
+853,Groceries,770.51,Rice 853,2025-10-01T12:00:00,http://image
+854,Clothing,4746.52,Cricket Bat 854,2025-10-01T12:00:00,http://image
+855,Clothing,844.76,Toy Car 855,2025-10-01T12:00:00,http://image
+856,Stationery,3656.34,Jeans 856,2025-10-01T12:00:00,http://image
+857,Beauty,2872.67,Mixer 857,2025-10-01T12:00:00,http://image
+858,Stationery,2911.76,Laptop 858,2025-10-01T12:00:00,http://image
+859,Beauty,1124.14,Rice 859,2025-10-01T12:00:00,http://image
+860,Clothing,900.28,Mixer 860,2025-10-01T12:00:00,http://image
+861,Groceries,4869.22,Jeans 861,2025-10-01T12:00:00,http://image
+862,Electronics,4606.36,Laptop 862,2025-10-01T12:00:00,http://image
+863,Home,1863.99,Cricket Bat 863,2025-10-01T12:00:00,http://image
+864,Electronics,2226.35,Chair 864,2025-10-01T12:00:00,http://image
+865,Electronics,4181.97,Laptop 865,2025-10-01T12:00:00,http://image
+866,Home,1110.66,Notebook 866,2025-10-01T12:00:00,http://image
+867,Home,608.59,Mixer 867,2025-10-01T12:00:00,http://image
+868,Groceries,2356.21,Toy Car 868,2025-10-01T12:00:00,http://image
+869,Electronics,2504.29,Jeans 869,2025-10-01T12:00:00,http://image
+870,Toys,1476.94,Toy Car 870,2025-10-01T12:00:00,http://image
+871,Groceries,457.13,Cricket Bat 871,2025-10-01T12:00:00,http://image
+872,Groceries,1954.67,Mobile 872,2025-10-01T12:00:00,http://image
+873,Beauty,3694.06,Mobile 873,2025-10-01T12:00:00,http://image
+874,Stationery,2247.58,Shampoo 874,2025-10-01T12:00:00,http://image
+875,Home,1488.42,Jeans 875,2025-10-01T12:00:00,http://image
+876,Electronics,4291.03,Notebook 876,2025-10-01T12:00:00,http://image
+877,Toys,1868.83,Mobile 877,2025-10-01T12:00:00,http://image
+878,Toys,2483.66,Rice 878,2025-10-01T12:00:00,http://image
+879,Home,2218.39,Laptop 879,2025-10-01T12:00:00,http://image
+880,Toys,470.78,Shampoo 880,2025-10-01T12:00:00,http://image
+881,Home,2033.09,T-Shirt 881,2025-10-01T12:00:00,http://image
+882,Groceries,3720.09,Chair 882,2025-10-01T12:00:00,http://image
+883,Groceries,1850.36,T-Shirt 883,2025-10-01T12:00:00,http://image
+884,Clothing,1041.3,Mixer 884,2025-10-01T12:00:00,http://image
+885,Groceries,1202.7,Notebook 885,2025-10-01T12:00:00,http://image
+886,Toys,2520.6,Notebook 886,2025-10-01T12:00:00,http://image
+887,Stationery,2930.5,Cricket Bat 887,2025-10-01T12:00:00,http://image
+888,Stationery,3957.99,Face Wash 888,2025-10-01T12:00:00,http://image
+889,Home,1812.68,Shampoo 889,2025-10-01T12:00:00,http://image
+890,Beauty,4753.19,Shampoo 890,2025-10-01T12:00:00,http://image
+891,Beauty,1430.51,Mobile 891,2025-10-01T12:00:00,http://image
+892,Groceries,654.84,Mobile 892,2025-10-01T12:00:00,http://image
+893,Home,1192.57,Mobile 893,2025-10-01T12:00:00,http://image
+894,Groceries,543.04,T-Shirt 894,2025-10-01T12:00:00,http://image
+895,Stationery,387.73,Rice 895,2025-10-01T12:00:00,http://image
+896,Groceries,4861.76,Shampoo 896,2025-10-01T12:00:00,http://image
+897,Beauty,3412.06,Notebook 897,2025-10-01T12:00:00,http://image
+898,Clothing,3128.74,T-Shirt 898,2025-10-01T12:00:00,http://image
+899,Stationery,428.76,Laptop 899,2025-10-01T12:00:00,http://image
+900,Stationery,2486.33,Jeans 900,2025-10-01T12:00:00,http://image
+901,Electronics,1503.14,Mobile 901,2025-10-01T12:00:00,http://image
+902,Home,2548.73,Mobile 902,2025-10-01T12:00:00,http://image
+903,Clothing,4056.93,Jeans 903,2025-10-01T12:00:00,http://image
+904,Beauty,137.47,Jeans 904,2025-10-01T12:00:00,http://image
+905,Home,4406.62,Rice 905,2025-10-01T12:00:00,http://image
+906,Home,2278.07,Laptop 906,2025-10-01T12:00:00,http://image
+907,Home,2325.3,Notebook 907,2025-10-01T12:00:00,http://image
+908,Electronics,2805.5,Rice 908,2025-10-01T12:00:00,http://image
+909,Toys,862.51,Face Wash 909,2025-10-01T12:00:00,http://image
+910,Electronics,1596.68,Notebook 910,2025-10-01T12:00:00,http://image
+911,Home,3831.86,Notebook 911,2025-10-01T12:00:00,http://image
+912,Toys,2478.24,Chair 912,2025-10-01T12:00:00,http://image
+913,Toys,2719.99,Jeans 913,2025-10-01T12:00:00,http://image
+914,Home,2833.16,Mobile 914,2025-10-01T12:00:00,http://image
+915,Beauty,325.9,T-Shirt 915,2025-10-01T12:00:00,http://image
+916,Home,2975.67,Face Wash 916,2025-10-01T12:00:00,http://image
+917,Beauty,3398.61,Notebook 917,2025-10-01T12:00:00,http://image
+918,Clothing,354.05,Face Wash 918,2025-10-01T12:00:00,http://image
+919,Groceries,684.58,Chair 919,2025-10-01T12:00:00,http://image
+920,Clothing,4057.29,Toy Car 920,2025-10-01T12:00:00,http://image
+921,Groceries,3837.71,Chair 921,2025-10-01T12:00:00,http://image
+922,Clothing,1933.84,Shampoo 922,2025-10-01T12:00:00,http://image
+923,Clothing,4960.13,Notebook 923,2025-10-01T12:00:00,http://image
+924,Clothing,329.42,Notebook 924,2025-10-01T12:00:00,http://image
+925,Electronics,1211.38,Mixer 925,2025-10-01T12:00:00,http://image
+926,Beauty,470.46,Face Wash 926,2025-10-01T12:00:00,http://image
+927,Groceries,4351.25,Cricket Bat 927,2025-10-01T12:00:00,http://image
+928,Clothing,890.41,Laptop 928,2025-10-01T12:00:00,http://image
+929,Clothing,235.02,Jeans 929,2025-10-01T12:00:00,http://image
+930,Stationery,2141.24,Shampoo 930,2025-10-01T12:00:00,http://image
+931,Home,1369.76,Jeans 931,2025-10-01T12:00:00,http://image
+932,Home,2960.55,Cricket Bat 932,2025-10-01T12:00:00,http://image
+933,Home,2873.25,Toy Car 933,2025-10-01T12:00:00,http://image
+934,Beauty,533.74,Toy Car 934,2025-10-01T12:00:00,http://image
+935,Groceries,3469.78,Mobile 935,2025-10-01T12:00:00,http://image
+936,Clothing,2508.82,Mixer 936,2025-10-01T12:00:00,http://image
+937,Clothing,874.8,Shampoo 937,2025-10-01T12:00:00,http://image
+938,Clothing,4848.67,Face Wash 938,2025-10-01T12:00:00,http://image
+939,Home,3195.45,Mixer 939,2025-10-01T12:00:00,http://image
+940,Stationery,4259.15,Laptop 940,2025-10-01T12:00:00,http://image
+941,Clothing,1362.52,Mixer 941,2025-10-01T12:00:00,http://image
+942,Beauty,2040.04,Face Wash 942,2025-10-01T12:00:00,http://image
+943,Beauty,3727.3,Mixer 943,2025-10-01T12:00:00,http://image
+944,Toys,4228.73,Laptop 944,2025-10-01T12:00:00,http://image
+945,Beauty,1717.35,Laptop 945,2025-10-01T12:00:00,http://image
+946,Beauty,4015.87,Laptop 946,2025-10-01T12:00:00,http://image
+947,Home,1088.21,Mobile 947,2025-10-01T12:00:00,http://image
+948,Toys,4127.51,Laptop 948,2025-10-01T12:00:00,http://image
+949,Stationery,1534.55,Jeans 949,2025-10-01T12:00:00,http://image
+950,Beauty,1601.1,Shampoo 950,2025-10-01T12:00:00,http://image
+951,Home,1293.76,Notebook 951,2025-10-01T12:00:00,http://image
+952,Home,3374.22,Jeans 952,2025-10-01T12:00:00,http://image
+953,Electronics,4410.44,Jeans 953,2025-10-01T12:00:00,http://image
+954,Toys,2605.31,Shampoo 954,2025-10-01T12:00:00,http://image
+955,Beauty,2521.06,T-Shirt 955,2025-10-01T12:00:00,http://image
+956,Stationery,3723.93,Shampoo 956,2025-10-01T12:00:00,http://image
+957,Clothing,4688.96,Mobile 957,2025-10-01T12:00:00,http://image
+958,Stationery,3091.39,Jeans 958,2025-10-01T12:00:00,http://image
+959,Beauty,3646.74,Notebook 959,2025-10-01T12:00:00,http://image
+960,Beauty,1043.21,Rice 960,2025-10-01T12:00:00,http://image
+961,Electronics,1239.85,Mobile 961,2025-10-01T12:00:00,http://image
+962,Toys,3839.37,Cricket Bat 962,2025-10-01T12:00:00,http://image
+963,Home,1627.33,Notebook 963,2025-10-01T12:00:00,http://image
+964,Toys,1057.61,Laptop 964,2025-10-01T12:00:00,http://image
+965,Clothing,4127.37,Notebook 965,2025-10-01T12:00:00,http://image
+966,Electronics,1319.41,Shampoo 966,2025-10-01T12:00:00,http://image
+967,Electronics,2059.04,Chair 967,2025-10-01T12:00:00,http://image
+968,Electronics,999.98,Laptop 968,2025-10-01T12:00:00,http://image
+969,Stationery,4144.78,Mixer 969,2025-10-01T12:00:00,http://image
+970,Home,2821.13,Mobile 970,2025-10-01T12:00:00,http://image
+971,Home,3252.26,Notebook 971,2025-10-01T12:00:00,http://image
+972,Electronics,838.82,Rice 972,2025-10-01T12:00:00,http://image
+973,Groceries,1329.06,T-Shirt 973,2025-10-01T12:00:00,http://image
+974,Toys,2776.0,Face Wash 974,2025-10-01T12:00:00,http://image
+975,Stationery,259.05,Shampoo 975,2025-10-01T12:00:00,http://image
+976,Home,3922.06,Cricket Bat 976,2025-10-01T12:00:00,http://image
+977,Stationery,4487.7,Rice 977,2025-10-01T12:00:00,http://image
+978,Beauty,1525.0,Toy Car 978,2025-10-01T12:00:00,http://image
+979,Home,4489.03,Laptop 979,2025-10-01T12:00:00,http://image
+980,Toys,4434.31,Shampoo 980,2025-10-01T12:00:00,http://image
+981,Stationery,3634.96,Notebook 981,2025-10-01T12:00:00,http://image
+982,Electronics,604.07,T-Shirt 982,2025-10-01T12:00:00,http://image
+983,Beauty,4668.03,Cricket Bat 983,2025-10-01T12:00:00,http://image
+984,Toys,4153.46,Jeans 984,2025-10-01T12:00:00,http://image
+985,Clothing,2507.43,Jeans 985,2025-10-01T12:00:00,http://image
+986,Electronics,3019.12,Laptop 986,2025-10-01T12:00:00,http://image
+987,Clothing,4170.05,Toy Car 987,2025-10-01T12:00:00,http://image
+988,Home,4038.92,Cricket Bat 988,2025-10-01T12:00:00,http://image
+989,Electronics,4680.73,Cricket Bat 989,2025-10-01T12:00:00,http://image
+990,Electronics,578.73,Mixer 990,2025-10-01T12:00:00,http://image
+991,Clothing,2225.4,Mixer 991,2025-10-01T12:00:00,http://image
+992,Stationery,2967.93,Face Wash 992,2025-10-01T12:00:00,http://image
+993,Beauty,1904.79,Mobile 993,2025-10-01T12:00:00,http://image
+994,Clothing,2751.44,Laptop 994,2025-10-01T12:00:00,http://image
+995,Toys,1269.42,Mobile 995,2025-10-01T12:00:00,http://image
+996,Stationery,4688.01,Face Wash 996,2025-10-01T12:00:00,http://image
+997,Home,3592.57,Toy Car 997,2025-10-01T12:00:00,http://image
+998,Groceries,3244.72,Face Wash 998,2025-10-01T12:00:00,http://image
+999,Groceries,4215.29,Chair 999,2025-10-01T12:00:00,http://image
+1000,Stationery,4707.2,Shampoo 1000,2025-10-01T12:00:00,http://image
