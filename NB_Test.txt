@@ -1,0 +1,106 @@
+from pyspark.sql.functions import *
+from pyspark.sql.types import *
+
+# ----------------------------------------------------------------------
+# 1. READ cleaned FILES FROM LAKEHOUSE (uploaded by students)
+# ----------------------------------------------------------------------
+
+
+Silver_path = "/lakehouse/default/Files/Silver/"
+
+df_customers = spark.read.format("parquet").option("header","true").load("Files/Silver/Customers.parquet")
+df_products = spark.read.format("parquet").option("header","true").load("Files/Silver/Products.parquet")
+df_sales = spark.read.format("parquet").option("header","true").load("Files/Silver/Sales.parquet")
+
+print("Files Loaded Successfully!")
+df_customers.show(5)
+df_products.show(5)
+df_sales.show(5)
+
+# ----------------------------------------------------------------------
+# 2. BASIC DATA CLEANING
+# ----------------------------------------------------------------------
+
+# Remove duplicates
+df_customers = df_customers.dropDuplicates()
+df_products  = df_products.dropDuplicates()
+df_sales     = df_sales.dropDuplicates()
+
+# Handle nulls
+df_customers = df_customers.fillna({"City": "Unknown"})
+df_products  = df_products.fillna({"Category": "Misc"})
+df_sales     = df_sales.fillna({"Quantity": 0})
+
+# Convert data types
+df_sales = df_sales.withColumn("quantity", col("quantity").cast("int")) \
+                   .withColumn("sale_date", to_date("Date"))
+
+print("Data Cleaning Completed!")
+
+# ----------------------------------------------------------------------
+# 3. JOIN DATASETS → BUILD FACT TABLE
+# ----------------------------------------------------------------------
+
+df_joined = df_sales \
+    .join(df_customers, "CustomerId", "left") \
+    .join(df_products, "ProductId", "left")
+
+df_joined.show(10)
+
+# Add Revenue column
+df_joined = df_joined.withColumn("revenue", col("Quantity") * col("Price"))
+
+
+# ----------------------------------------------------------------------
+# 4. WRITE TO LAKEHOUSE AS DELTA TABLES
+# ----------------------------------------------------------------------
+
+df_customers.write.mode("overwrite").saveAsTable("customers_clean")
+df_products.write.mode("overwrite").saveAsTable("products_clean")
+df_joined.write.mode("overwrite").saveAsTable("sales_enriched")
+
+print("creates Lakehouse tables")
+
+# ----------------------------------------------------------------------
+# 5. CREATE SQL TABLE REFERENCES FOR REPORTING
+# ----------------------------------------------------------------------
+
+spark.sql("CREATE TABLE IF NOT EXISTS customers_clean USING DELTA LOCATION '/lakehouse/default/tables/customers_clean'")
+spark.sql("CREATE TABLE IF NOT EXISTS products_clean USING DELTA LOCATION '/lakehouse/default/tables/products_clean'")
+spark.sql("CREATE TABLE IF NOT EXISTS sales_enriched USING DELTA LOCATION '/lakehouse/default/tables/sales_enriched'")
+
+print("SQL Tables Created!")
+
+# ----------------------------------------------------------------------
+# 6. SAMPLE ANALYTICS QUERIES (Students will love this!)
+# ----------------------------------------------------------------------
+
+print("Top 10 Customers by Revenue")
+spark.sql("""
+    SELECT CustomerId, CustomerName, City, SUM(revenue) AS total_revenue
+    FROM sales_enriched
+    GROUP BY CustomerId, CustomerName, City
+    ORDER BY total_revenue DESC
+    LIMIT 10
+""").show()
+
+
+
+print("Sales by City")
+spark.sql("""
+    SELECT City, SUM(revenue) AS revenue
+    FROM sales_enriched
+    GROUP BY City
+    ORDER BY revenue DESC
+""").show()
+print("Top Selling Products")
+spark.sql("""
+    SELECT ProductName, category, SUM(quantity) AS total_qty
+    FROM sales_enriched
+    GROUP BY ProductName, category
+    ORDER BY total_qty DESC
+""").show()
+
+
+
+
